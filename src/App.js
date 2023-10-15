@@ -30,7 +30,7 @@ function App() {
     <div className="App">
     <h1> Hello firestore App </h1>
     <button onClick={writeData}>Put Data</button>
-    <button onClick={makeSubcollection}>Put sub Data</button>
+    <button onClick={makeSubcollection}>Put sub-Data</button>
     <button onClick={getDocuments}>Get Data</button>
     </div>
   );
