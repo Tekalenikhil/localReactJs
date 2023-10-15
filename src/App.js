@@ -28,7 +28,7 @@ function App() {
   }
   return (
     <div className="App">
-    <h1> hello firestore </h1>
+    <h1> Hello firestore App </h1>
     <button onClick={writeData}>Put Data</button>
     <button onClick={makeSubcollection}>Put sub Data</button>
     <button onClick={getDocuments}>Get Data</button>
